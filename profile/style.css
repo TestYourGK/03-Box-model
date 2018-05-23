@@ -1,0 +1,36 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+  color: grey;
+  background-color: rgb(167, 249, 234);
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+}
+
+.x {
+  list-style: none;
+}
+
+#small-img{
+  height: 500px;
+  width: 500px;
+}
+
+.pic{
+  border-radius: 50%
+}
+
+.text-center {
+  text-align: center;
+  background-color: rgb(234, 239, 238);
+}
+
+.text{
+ text-align: center;
+}
+
+.image_list{
+ text-align: center;
+ margin-top: 150px;
+}

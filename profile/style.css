@@ -8,9 +8,15 @@ h1{
   font-family: 'Indie Flower', cursive;
 }
 
-.x {
-  list-style: none;
-}
+
+  .x ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .x li{
+    list-style: none;
+  }
 
 #small-img{
   height: 500px;
